@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "9a0780749afe3857",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf17b856065d1623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d255cdd69daa9bf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-MOC/阅读清单.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "22f04eb75615b7fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-MOC/AuthorRanking.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "169762c0897285b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a927cf4be47876",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3090910a3bbb4bfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4cc5673d41093ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af328bc8c7dd1264",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 620.5
+  },
+  "right": {
+    "id": "6e7011190a6a4416",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c47daab7a7f6b09",
+        "type": "tabs",
+        "dimension": 40.609137055837564,
+        "children": [
+          {
+            "id": "ec1d354533e6cbd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d92b31ac7bc3511",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4bbb6d3769d62dc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4f101d806a54a17c",
+        "type": "tabs",
+        "dimension": 59.390862944162436,
+        "children": [
+          {
+            "id": "450ad81cf27a4dff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-MOC/AuthorRanking.md"
+              }
+            }
+          },
+          {
+            "id": "227681cc38450669",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-MOC/AuthorRanking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60ed30d1cc6d4c8d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-gallery:Gallery": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "22f04eb75615b7fd",
+  "lastOpenFiles": [
+    "01-Diary/本周事务/Y. Xue.md",
+    "00-MOC/AuthorRanking.md",
+    "00-MOC/阅读清单.md",
+    "02-Reading/betternotes/heinzinger2019.md",
+    "02-Reading/summary/2022-04-02_文献阅读小结.md",
+    "02-Reading/mdnotes/@Doose2005.md",
+    "02-Reading/summary/2022-05-24_文献阅读小结.md",
+    "10-笔记/01-效率生活/01-zotero/zotero-better-notes模板编写.md",
+    "02-Reading/betternotes/Bio-Embedding-Introduction-.md",
+    "02-Reading/betternotes/verkuil2022.md",
+    "02-Reading/betternotes/Dallago2021.md",
+    "09-Templates/每周文献小结.md",
+    "09-Templates/每周小结.md",
+    "09-Templates/试剂卡片.md",
+    "09-Templates/实验记录模板.md",
+    "09-Templates/日志模板.md",
+    "03-Projects/98-test/新增目录.md",
+    "03-Projects/98-test/这是草稿.md",
+    "03-Projects/98-test/test_草稿归档.md",
+    "03-Projects/98-test/test2.md",
+    "03-Projects/98-test/test3.md",
+    "03-Projects/98-test/test4.md",
+    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/开箱写日志.md",
+    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/每周定期汇总小结.md",
+    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/obsidian撰写草稿.md",
+    "01-Diary/本周事务/JavaScript语法介绍.md",
+    "10-笔记/02-编程/01-编程语言/02-JavaScript",
+    "10-笔记/02-编程/01-编程语言",
+    "10-笔记/02-编程",
+    "10-笔记/01-效率生活/01-zotero",
+    "10-笔记/01-效率生活",
+    "10-笔记",
+    "02-Reading/betternotes/Dallago2021",
+    "02-Reading/betternotes/heinzinger2019",
+    "02-Reading/betternotes.tmp",
+    "02-Reading/betternotes/@heinzinger2019.json",
+    "08-Assets/Pasted image 20220321161118.png",
+    "08-Assets/Pasted image 20220321154948.png",
+    "08-Assets/Pasted image 20220321142732.png"
+  ]
+}
