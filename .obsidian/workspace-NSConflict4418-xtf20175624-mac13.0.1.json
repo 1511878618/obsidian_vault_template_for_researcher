@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4efd0109c7457fb",
+        "id": "cf5a639ec19ab1b1",
         "type": "tabs",
         "children": [
           {
-            "id": "81b55828bf8bb56a",
+            "id": "2fb4c5876cd84614",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/4-betternotes/@Dallago2021.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c61a638d6d8e1acb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/本周事务/未命名 2.md",
+                "file": "01-Diary/周小结/2023-03-20_周小结.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207
+    "width": 204.5
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Reading/4-betternotes/@Dallago2021.md"
+                "file": "01-Diary/周小结/2023-03-20_周小结.md"
               }
             }
           },
@@ -143,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Reading/4-betternotes/@Dallago2021.md",
+                "file": "01-Diary/周小结/2023-03-20_周小结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,46 +173,46 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "81b55828bf8bb56a",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
-    "01-Diary/本周事务/未命名 2.md",
-    "02-Reading/4-betternotes/@Dallago2021.md",
-    "00-MOC/阅读清单.md",
-    "09-Templates/author_count.md",
-    "09-Templates/test1.md",
-    "01-Diary/本周事务/未命名 1.md",
-    "09-Templates/ref_list.md",
-    "00-MOC/本周事务表.md",
-    "00-MOC/AuthorRanking.md",
-    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/zotero-obsidian联动配置.md",
-    "10-笔记/01-效率生活/01-zotero/未命名 1.md",
-    "01-Diary/周小结/2023-03-20_周小结.md",
-    "01-Diary/本周事务/未命名.md",
-    "01-Diary/日志存档/2023-03-20.md",
-    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/软件下载安装.md",
-    "10-笔记/01-效率生活/01-zotero/mac中template和shell commands的问题.md",
-    "01-Diary/本周事务/mac中template和shell commands的问题.md",
-    "01-Diary/本周事务/Y. Xue.md",
-    "01-Diary/本周事务/JavaScript语法介绍.md",
-    "02-Reading/4-betternotes/@Dallago2021.json",
-    "08-Assets/Scripts/__pycache__/crossref.cpython-38.pyc",
-    "08-Assets/Scripts/__pycache__/utils.cpython-38.pyc",
-    "08-Assets/Scripts/__pycache__/obs.cpython-38.pyc",
-    "08-Assets/Scripts/MyLibrary.bib",
-    "10-笔记/01-效率生活/01-zotero/zotero-bibtex配置.md",
-    "10-笔记/01-效率生活/01-zotero/zotero-better-notes模板编写.md",
     "10-笔记/01-效率生活/01-zotero/zotero-bibtex配置-NSConflict-xtf20175624-mac13.0.1.md",
+    "10-笔记/01-效率生活/01-zotero/zotero-bibtex配置.md",
     "10-笔记/01-效率生活/01-zotero/zotero-bibtex配置.nssyncsc",
     "10-笔记/01-效率生活/01-zotero/未命名.md",
+    "08-Assets/Scripts/MyLibrary.bib",
+    "10-笔记/01-效率生活/01-zotero/zotero-better-notes模板编写.md",
+    "01-Diary/周小结/2023-03-20_周小结.md",
     "01-Diary/日志存档/2023-03-14.md",
     "01-Diary/周小结/2022-04-02_周小结.md",
     "01-Diary/本周事务/3.md",
+    "01-Diary/本周事务/Y. Xue.md",
+    "01-Diary/本周事务/未命名 2-冲突-xtf20175624_Win10.md",
+    "01-Diary/本周事务/JavaScript语法介绍.md",
+    "01-Diary/本周事务/未命名 3.md",
+    "01-Diary/本周事务/未命名 2.md",
+    "01-Diary/本周事务/未命名 1.md",
+    "01-Diary/本周事务/未命名.md",
+    "03-Projects/02-自交不亲和性/目前结论.md",
+    "03-Projects/02-自交不亲和性/基于机器学习的自交不亲和性分析.md",
+    "03-Projects/02-自交不亲和性/自交不亲和性进度安排.md",
+    "03-Projects/02-自交不亲和性/自交不亲和性统计分析.md",
+    "03-Projects/02-自交不亲和性/亲和度预测.md",
+    "03-Projects/02-自交不亲和性/02-自交不亲和性.md",
     "01-Diary/本周事务/未命名 2-冲突-xtf20175624_Win10.nssyncsc",
+    "01-Diary/日志存档/2023-03-17.md",
+    "06-Cards/202112201648.md",
+    "03-Projects/01-错义突变预测/01-错义突变预测.md",
+    "03-Projects/01-错义突变预测/错义突变预测课题outline.md",
+    "03-Projects/01-错义突变预测/错义突变预测课题进度安排.md",
     "03-Projects/02-自交不亲和性/SLF_RNase_tsne.png",
     "03-Projects/02-自交不亲和性/SLF_RNase_pair_tsne.png",
     "02-Reading/4-betternotes/@Littmann2021.json",
     "03-Projects/02-自交不亲和性",
     "03-Projects/01-错义突变预测",
+    "10-笔记/02-编程/01-编程语言/02-JavaScript",
+    "10-笔记/02-编程/01-编程语言",
+    "10-笔记/02-编程",
+    "10-笔记/01-效率生活/01-zotero",
     "08-Assets/Pasted image 20220321161118.png",
     "08-Assets/Pasted image 20220321154948.png",
     "08-Assets/Pasted image 20220321142732.png"

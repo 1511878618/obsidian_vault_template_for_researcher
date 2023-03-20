@@ -14,6 +14,7 @@
       "left": 2
     },
     "recentlyUsedIcons": [
+      "RiStickyNote2Line",
       "RiToolsLine"
     ],
     "recentlyUsedIconsSize": 5
@@ -25,5 +26,6 @@
   "02-Reading": "RiArticleLine",
   "01-Diary": "RiBaiduLine",
   "00-MOC": "RiBankLine",
-  "06-Cards": "RiDatabase2Line"
+  "06-Cards": "RiDatabase2Line",
+  "10-笔记": "RiStickyNote2Line"
 }
