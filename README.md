@@ -5,6 +5,10 @@ date: 2022-03-13 09:57:43
 
 # obsidian_vault_template_for_researcher
 
+### tf_version
+魔改自黑曜石玩家指南
+
+
 ### 写在前面
 
 从接触到使用 obsidian 已经有一段时间了，感觉这个工具用好了应该对搞科研有较大帮助。软件界面如下：

@@ -1,0 +1,332 @@
+{
+  "workspaces": {
+    "文献阅读": {
+      "main": {
+        "id": "9a0780749afe3857",
+        "type": "split",
+        "children": [
+          {
+            "id": "c8b9d07535c8b98d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8eef30dc4fe314c1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Diary/本周事务/ukb CIL登录.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "45af7655c495fef1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Diary/本周事务/初步尝试bolt-lmm.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d84770dbe5039d68",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Diary/本周事务/bgen.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "602f7b6c49d3d0f6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Diary/本周事务/ukb-wgs.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "92d1c0e8acb39e37",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04-笔记/01-效率生活/05-linux/软件记录/SCP.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "81b707a378a820bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Diary/本周事务/docker的基本操作.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "92eade1e164d39b8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Diary/本周事务/gwas tools.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "169762c0897285b5",
+        "type": "split",
+        "children": [
+          {
+            "id": "66a927cf4be47876",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3090910a3bbb4bfa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "d4cc5673d41093ba",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "grep",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "af328bc8c7dd1264",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "d7a6c849ea6c6e40",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 289.5
+      },
+      "right": {
+        "id": "6e7011190a6a4416",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c47daab7a7f6b09",
+            "type": "tabs",
+            "dimension": 38.66498740554156,
+            "children": [
+              {
+                "id": "ec1d354533e6cbd2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "0d92b31ac7bc3511",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "b4bbb6d3769d62dc",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "4f101d806a54a17c",
+            "type": "tabs",
+            "dimension": 61.33501259445844,
+            "children": [
+              {
+                "id": "450ad81cf27a4dff",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "04-笔记/01-效率生活/05-linux/软件记录/SCP.md"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "227681cc38450669",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "04-笔记/01-效率生活/05-linux/软件记录/SCP.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "60ed30d1cc6d4c8d",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "1efe55f94e0499fb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "08-Assets/Scripts/Utils.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "1efe55f94e0499fb",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"08-Assets/Scripts/Utils.md\",\"mode\":\"preview\",\"source\":false}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "leaf": "1efe55f94e0499fb",
+                      "group": null,
+                      "state": "{\"type\":\"empty\",\"state\":{}}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "workspaces:管理工作区布局": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "obsidian-gallery:Gallery": false
+        }
+      },
+      "active": "92d1c0e8acb39e37"
+    }
+  },
+  "active": "文献阅读"
+}

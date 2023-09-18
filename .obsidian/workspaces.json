@@ -1,22 +1,219 @@
 {
   "workspaces": {
-    "文献阅读": {
+    "工作": {
       "main": {
         "id": "9a0780749afe3857",
         "type": "split",
         "children": [
           {
-            "id": "0d255cdd69daa9bf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-MOC/阅读清单.md",
-                "mode": "preview"
+            "id": "6ee028d66c4d8751",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e4685f77ed705114",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Diary/本周事务/rs13107325 and SLC39A8基因.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               },
-              "pinned": true
-            }
+              {
+                "id": "c3d96769587116d8",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 1,
+                  "stack": [
+                    {
+                      "title": "python项目打包",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/本周事务/python项目打包.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":16.918367346938776}"
+                    },
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Diary/本周事务/周静.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ee7d67871677ea38",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Diary/本周事务/model list.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "684d21ae8393464e",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "基本数据格式",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/03-疾病挖掘/基本数据格式.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":229},\"to\":{\"line\":49,\"ch\":229}},\"scroll\":5.499674479166667}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03-Projects/03-疾病挖掘/方法/plink2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e05acf92b9da7172",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "未命名",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/本周事务/未命名.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":146},\"to\":{\"line\":13,\"ch\":146}}}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04-笔记/08-linux/slurm系统/slurm.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c63afc8aff43a5b0",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "SORT1分析",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/本周事务/SORT1分析.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":25.755859375}"
+                    },
+                    {
+                      "title": "regenie",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/本周事务/regenie.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":11}"
+                    },
+                    {
+                      "title": "未命名 1",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/本周事务/未命名 1.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":13},\"to\":{\"line\":18,\"ch\":13}}}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03-Projects/03-疾病挖掘/方法/BOLT-LMM.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8e32e8e2f13f3972",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04-笔记/07-GWAS/初步尝试bolt-lmm.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "68464975000a3dda",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Diary/本周事务/LD score.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
         ],
         "direction": "vertical"
@@ -32,14 +229,396 @@
               {
                 "id": "3090910a3bbb4bfa",
                 "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
                 "state": {
                   "type": "file-explorer",
-                  "state": {}
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
                 }
               },
               {
                 "id": "d4cc5673d41093ba",
                 "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "setup",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "af328bc8c7dd1264",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d7a6c849ea6c6e40",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 306.5
+      },
+      "right": {
+        "id": "6e7011190a6a4416",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c47daab7a7f6b09",
+            "type": "tabs",
+            "dimension": 38.66498740554156,
+            "children": [
+              {
+                "id": "ec1d354533e6cbd2",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "0d92b31ac7bc3511",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b4bbb6d3769d62dc",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "754a7df90037816b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "4f101d806a54a17c",
+            "type": "tabs",
+            "dimension": 61.33501259445844,
+            "children": [
+              {
+                "id": "450ad81cf27a4dff",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "01-Diary/本周事务/rs13107325 and SLC39A8基因.md"
+                  }
+                }
+              },
+              {
+                "id": "227681cc38450669",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "01-Diary/本周事务/rs13107325 and SLC39A8基因.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "60ed30d1cc6d4c8d",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1efe55f94e0499fb",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "08-Assets/Scripts/Utils.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:新建白板": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "workspaces:管理工作区布局": false,
+          "templater-obsidian:Templater": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "obsidian-gallery:Gallery": false,
+          "obsidian42-brat:BRAT": false
+        }
+      },
+      "active": "e4685f77ed705114",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "01-Diary/本周事务",
+          "02-Reading",
+          "02-Reading/07-paper",
+          "04-笔记",
+          "04-笔记/01-效率生活/01-zotero",
+          "04-笔记/01-效率生活/03-latex",
+          "04-笔记/02-编程",
+          "04-笔记/02-编程/01-编程语言/01-python",
+          "04-笔记/02-编程/01-编程语言/01-python/06-pytorch",
+          "04-笔记/03-机器学习",
+          "04-笔记/08-linux/小技巧",
+          "04-笔记/08-linux/ohters",
+          "05-课程/01-机器学习",
+          "05-课程/01-机器学习/李宏毅",
+          "05-课程/01-机器学习/应用数学基础张志华"
+        ]
+      }
+    },
+    "学习": {
+      "main": {
+        "id": "9a0780749afe3857",
+        "type": "split",
+        "children": [
+          {
+            "id": "a0b7cdd03ccd129b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "84d44ea0c6bfa2ec",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b794940f22b617a2",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Diary/本周事务/未命名 1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "169762c0897285b5",
+        "type": "split",
+        "children": [
+          {
+            "id": "66a927cf4be47876",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3090910a3bbb4bfa",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d4cc5673d41093ba",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
                 "state": {
                   "type": "search",
                   "state": {
@@ -55,8 +634,34 @@
               {
                 "id": "af328bc8c7dd1264",
                 "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
                 "state": {
                   "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d7a6c849ea6c6e40",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "bookmarks",
                   "state": {}
                 }
               }
@@ -64,184 +669,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 207,
-        "collapsed": true
-      },
-      "right": {
-        "id": "6e7011190a6a4416",
-        "type": "split",
-        "children": [
-          {
-            "id": "2c47daab7a7f6b09",
-            "type": "tabs",
-            "dimension": 40.609137055837564,
-            "children": [
-              {
-                "id": "ec1d354533e6cbd2",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "0d92b31ac7bc3511",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              },
-              {
-                "id": "b4bbb6d3769d62dc",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "4f101d806a54a17c",
-            "type": "tabs",
-            "dimension": 59.390862944162436,
-            "children": [
-              {
-                "id": "450ad81cf27a4dff",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "00-MOC/阅读清单.md"
-                  }
-                }
-              },
-              {
-                "id": "227681cc38450669",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "00-MOC/阅读清单.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": true,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "60ed30d1cc6d4c8d",
-                "type": "leaf",
-                "state": {
-                  "type": "recent-files",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "horizontal",
-        "width": 245
-      },
-      "active": "0d255cdd69daa9bf"
-    },
-    "日志草稿": {
-      "main": {
-        "id": "9a0780749afe3857",
-        "type": "split",
-        "children": [
-          {
-            "id": "b925b1fa789215ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "b925b1fa789215ee",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                }
-              ]
-            }
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "169762c0897285b5",
-        "type": "split",
-        "children": [
-          {
-            "id": "66a927cf4be47876",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3090910a3bbb4bfa",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "d4cc5673d41093ba",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "快捷键",
-                    "matchingCase": true,
-                    "explainSearch": true,
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "af328bc8c7dd1264",
-                "type": "leaf",
-                "state": {
-                  "type": "starred",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 207
+        "width": 229.50260543823242
       },
       "right": {
         "id": "6e7011190a6a4416",
@@ -255,44 +683,59 @@
               {
                 "id": "ec1d354533e6cbd2",
                 "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
                 "state": {
                   "type": "tag",
                   "state": {
                     "sortOrder": "frequency",
                     "useHierarchy": true
                   }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
                 }
               },
               {
                 "id": "0d92b31ac7bc3511",
                 "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
                 "state": {
                   "type": "calendar",
                   "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
                 }
               },
               {
                 "id": "b4bbb6d3769d62dc",
                 "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
                 "state": {
                   "type": "advanced-tables-toolbar",
                   "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "4f101d806a54a17c",
@@ -302,24 +745,38 @@
               {
                 "id": "450ad81cf27a4dff",
                 "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md"
+                    "file": "01-Diary/本周事务/未命名 1.md"
                   }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
                 }
               },
               {
                 "id": "227681cc38450669",
                 "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md",
+                    "file": "01-Diary/本周事务/未命名 1.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -328,27 +785,45 @@
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
                   }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
                 }
               },
               {
                 "id": "60ed30d1cc6d4c8d",
                 "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
                 "state": {
                   "type": "recent-files",
                   "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
                 }
               },
               {
                 "id": "1efe55f94e0499fb",
                 "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "leaf": "1efe55f94e0499fb",
+                      "group": null,
+                      "state": "{\"type\":\"empty\",\"state\":{}}",
+                      "eState": "{}",
+                      "title": "No file",
+                      "icon": "cross"
+                    }
+                  ]
+                },
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -356,34 +831,44 @@
                     "mode": "preview",
                     "source": false
                   }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "leaf": "1efe55f94e0499fb",
-                      "group": null,
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"08-Assets/Scripts/Utils.md\",\"mode\":\"preview\",\"source\":false}}",
-                      "eState": "{}"
-                    },
-                    {
-                      "leaf": "1efe55f94e0499fb",
-                      "group": null,
-                      "state": "{\"type\":\"empty\",\"state\":{}}",
-                      "eState": "{}"
-                    }
-                  ]
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           }
         ],
         "direction": "horizontal",
-        "width": 229
+        "width": 200
       },
-      "active": "b925b1fa789215ee"
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "workspaces:管理工作区布局": false,
+          "templater-obsidian:Templater": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-gallery:Gallery": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "obsidian-advanced-slides:Show Slide Preview": false
+        }
+      },
+      "active": "b794940f22b617a2",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "01-Diary",
+          "01-Diary/本周事务",
+          "04-笔记",
+          "04-笔记/01-效率生活",
+          "04-笔记/01-效率生活/05-linux",
+          "04-笔记/01-效率生活/05-linux/软件记录",
+          "04-笔记/02-编程"
+        ]
+      }
     }
   },
-  "active": "文献阅读"
+  "active": "工作"
 }

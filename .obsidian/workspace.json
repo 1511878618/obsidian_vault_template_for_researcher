@@ -4,28 +4,208 @@
     "type": "split",
     "children": [
       {
-        "id": "a4efd0109c7457fb",
+        "id": "6ee028d66c4d8751",
         "type": "tabs",
         "children": [
           {
-            "id": "81b55828bf8bb56a",
+            "id": "e4685f77ed705114",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/4-betternotes/@Dallago2021.md",
+                "file": "01-Diary/本周事务/rs13107325 and SLC39A8基因.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c61a638d6d8e1acb",
+            "id": "c3d96769587116d8",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "python项目打包",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/本周事务/python项目打包.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":16.918367346938776}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/本周事务/未命名 2.md",
+                "file": "01-Diary/本周事务/周静.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee7d67871677ea38",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/本周事务/model list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "684d21ae8393464e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "基本数据格式",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/03-疾病挖掘/基本数据格式.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":229},\"to\":{\"line\":49,\"ch\":229}},\"scroll\":5.499674479166667}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Projects/03-疾病挖掘/方法/plink2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e05acf92b9da7172",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "未命名",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/本周事务/未命名.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":146},\"to\":{\"line\":13,\"ch\":146}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-笔记/08-linux/slurm系统/slurm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c63afc8aff43a5b0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "SORT1分析",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/本周事务/SORT1分析.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":25.755859375}"
+                },
+                {
+                  "title": "regenie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/本周事务/regenie.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":11}"
+                },
+                {
+                  "title": "未命名 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01-Diary/本周事务/未命名 1.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":13},\"to\":{\"line\":18,\"ch\":13}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Projects/03-疾病挖掘/方法/BOLT-LMM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e32e8e2f13f3972",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-笔记/07-GWAS/初步尝试bolt-lmm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68464975000a3dda",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/本周事务/LD score.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,6 +227,15 @@
           {
             "id": "3090910a3bbb4bfa",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -57,31 +246,67 @@
           {
             "id": "d4cc5673d41093ba",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "setup",
                 "matchingCase": true,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
           {
             "id": "af328bc8c7dd1264",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d7a6c849ea6c6e40",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 207
+    "width": 306.5
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -90,11 +315,20 @@
       {
         "id": "2c47daab7a7f6b09",
         "type": "tabs",
-        "dimension": 40.609137055837564,
+        "dimension": 38.66498740554156,
         "children": [
           {
             "id": "ec1d354533e6cbd2",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -106,6 +340,15 @@
           {
             "id": "0d92b31ac7bc3511",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "calendar",
               "state": {}
@@ -114,36 +357,82 @@
           {
             "id": "b4bbb6d3769d62dc",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "754a7df90037816b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "4f101d806a54a17c",
         "type": "tabs",
-        "dimension": 59.390862944162436,
+        "dimension": 61.33501259445844,
         "children": [
           {
             "id": "450ad81cf27a4dff",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Reading/4-betternotes/@Dallago2021.md"
+                "file": "01-Diary/本周事务/rs13107325 and SLC39A8基因.md"
               }
             }
           },
           {
             "id": "227681cc38450669",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Reading/4-betternotes/@Dallago2021.md",
+                "file": "01-Diary/本周事务/rs13107325 and SLC39A8基因.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,9 +446,39 @@
           {
             "id": "60ed30d1cc6d4c8d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "recent-files",
               "state": {}
+            }
+          },
+          {
+            "id": "1efe55f94e0499fb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-Assets/Scripts/Utils.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -167,13 +486,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "zk-prefixer:创建时间戳笔记": false,
@@ -182,51 +501,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "obsidian-gallery:Gallery": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "81b55828bf8bb56a",
+  "active": "e4685f77ed705114",
   "lastOpenFiles": [
-    "01-Diary/本周事务/未命名 2.md",
-    "02-Reading/4-betternotes/@Dallago2021.md",
-    "00-MOC/阅读清单.md",
-    "09-Templates/author_count.md",
-    "09-Templates/test1.md",
+    "01-Diary/本周事务/周静.md",
+    "01-Diary/本周事务/python项目打包.md",
+    "01-Diary/本周事务/rs13107325 and SLC39A8基因.md",
+    "04-笔记/07-GWAS/初步尝试bolt-lmm.md",
+    "03-Projects/03-疾病挖掘/方法/BOLT-LMM.md",
+    "01-Diary/本周事务/SORT1分析.md",
+    "01-Diary/本周事务/regenie.md",
     "01-Diary/本周事务/未命名 1.md",
-    "09-Templates/ref_list.md",
-    "00-MOC/本周事务表.md",
-    "00-MOC/AuthorRanking.md",
-    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/zotero-obsidian联动配置.md",
-    "10-笔记/01-效率生活/01-zotero/未命名 1.md",
-    "01-Diary/周小结/2023-03-20_周小结.md",
+    "04-笔记/08-linux/slurm系统/slurm.md",
     "01-Diary/本周事务/未命名.md",
-    "01-Diary/日志存档/2023-03-20.md",
-    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/软件下载安装.md",
-    "10-笔记/01-效率生活/01-zotero/mac中template和shell commands的问题.md",
-    "01-Diary/本周事务/mac中template和shell commands的问题.md",
-    "01-Diary/本周事务/Y. Xue.md",
-    "01-Diary/本周事务/JavaScript语法介绍.md",
-    "02-Reading/4-betternotes/@Dallago2021.json",
-    "08-Assets/Scripts/__pycache__/crossref.cpython-38.pyc",
-    "08-Assets/Scripts/__pycache__/utils.cpython-38.pyc",
-    "08-Assets/Scripts/__pycache__/obs.cpython-38.pyc",
-    "08-Assets/Scripts/MyLibrary.bib",
-    "10-笔记/01-效率生活/01-zotero/zotero-bibtex配置.md",
-    "10-笔记/01-效率生活/01-zotero/zotero-better-notes模板编写.md",
-    "10-笔记/01-效率生活/01-zotero/zotero-bibtex配置-NSConflict-xtf20175624-mac13.0.1.md",
-    "10-笔记/01-效率生活/01-zotero/zotero-bibtex配置.nssyncsc",
-    "10-笔记/01-效率生活/01-zotero/未命名.md",
-    "01-Diary/日志存档/2023-03-14.md",
-    "01-Diary/周小结/2022-04-02_周小结.md",
-    "01-Diary/本周事务/3.md",
-    "01-Diary/本周事务/未命名 2-冲突-xtf20175624_Win10.nssyncsc",
-    "03-Projects/02-自交不亲和性/SLF_RNase_tsne.png",
-    "03-Projects/02-自交不亲和性/SLF_RNase_pair_tsne.png",
-    "02-Reading/4-betternotes/@Littmann2021.json",
-    "03-Projects/02-自交不亲和性",
-    "03-Projects/01-错义突变预测",
-    "08-Assets/Pasted image 20220321161118.png",
-    "08-Assets/Pasted image 20220321154948.png",
-    "08-Assets/Pasted image 20220321142732.png"
+    "01-Diary/本周事务/LD score.md",
+    "03-Projects/03-疾病挖掘/方法/plink2.md",
+    "03-Projects/03-疾病挖掘/基本数据格式.md",
+    "elliottGenomewideAssociationStudies2018.md",
+    "01-Diary/本周事务/model list.md",
+    "08-Assets/A3ABFYAD.png",
+    "08-Assets/NWAGF7NJ.png",
+    "01-Diary/本周事务/zotero资源合集.md",
+    "02-Reading/07-paper/Learning-to-detect-unseen-object-classes-by-between-class-attribute-transfer-8GWBAFY7.md",
+    "02-Reading/07-paper/attachments/URLSJCXP.png",
+    "02-Reading/07-paper/attachments",
+    "02-Reading/07-paper/@elliottGenomewideAssociationStudies2018.md",
+    "02-Reading/07-paper/attachments/elliottGenomewideAssociationStudies2018_5H5ED3AZ.png",
+    "02-Reading/07-paper/@jamasbGrapheinPythonLibrary2021.md",
+    "02-Reading/07-paper/@adaloglou2021.md",
+    "02-Reading/07-paper/@du2022.md",
+    "02-Reading/07-paper/@mirdita2022.md",
+    "02-Reading/07-paper/@chang2022.md",
+    "02-Reading/07-paper/@borowiec2022.md",
+    "02-Reading/07-paper/@buel2022.md",
+    "02-Reading/07-paper/@karbalayghareh2022.md",
+    "02-Reading/07-paper/attachments/livingstoneProteinSequenceAlignments1993_MCFH7YQK.png",
+    "02-Reading/07-paper/attachments/liTabixFastRetrieval2011_DDM2F935.png",
+    "02-Reading/07-paper/attachments/liTabixFastRetrieval2011_TTAMJ3UV.png",
+    "02-Reading/07-paper/attachments/elliottGenomewideAssociationStudies2018_9PF64V9I.png",
+    "02-Reading/07-paper/attachments/elliottGenomewideAssociationStudies2018_VPTVGXFA.png",
+    "02-Reading/07-paper/attachments/janssensDataScienceCommand2014_JDEX44W9.png",
+    "02-Reading/07-paper/d",
+    "02-Reading/07-paper/我的文库.json",
+    "02-Reading/07-paper/atta",
+    "02-Reading/07-paper",
+    "zotero/storage/ZWYCP466",
+    "zotero/storage/ZWP6S6YN",
+    "zotero/storage/ZLVXHRS5",
+    "zotero/storage/ZJV4C7D2",
+    "zotero/storage/ZGA8QAW8",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas"
   ]
 }

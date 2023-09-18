@@ -113,23 +113,6 @@
     }
   ],
   "obsidian-excalidraw-plugin:toggle-lock": [],
-  "workspace:toggle-pin": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
-  "app:show-debug-info": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Z"
-    }
-  ],
   "obsidian-mind-map:app:markmap-preview": [
     {
       "modifiers": [
@@ -155,5 +138,40 @@
       ],
       "key": "E"
     }
-  ]
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "I"
+    }
+  ],
+  "workspace:goto-tab-1": [],
+  "bibnotes:importSelectedJson-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "bibnotes:updateLibrary-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "workspace:goto-tab-2": []
 }

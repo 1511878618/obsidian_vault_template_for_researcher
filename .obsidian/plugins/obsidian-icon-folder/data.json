@@ -1,31 +1,42 @@
 {
   "settings": {
-    "enableRemixiconsLine": true,
-    "enableRemixiconsFill": false,
-    "enableFontawesomeFill": false,
-    "enableFontawesomeLine": false,
-    "enableFontawesomeBrands": false,
+    "migrated": 2,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "iconColor": null,
-    "extraPadding": {
-      "top": 2,
-      "right": 2,
-      "bottom": 2,
-      "left": 2
-    },
+    "emojiStyle": "none",
+    "iconColor": "#2455a3",
     "recentlyUsedIcons": [
-      "RiStickyNote2Line",
-      "RiToolsLine"
+      "TiDatabaseShare",
+      "FabChessRook",
+      "FabCss3",
+      "FabConnectdevelop",
+      "FabDraft2digital"
     ],
-    "recentlyUsedIconsSize": 5
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
   },
-  "09-Templates": "RiAndroidLine",
-  "08-Assets": "RiAttachment2",
-  "07-Archives": "RiArchiveLine",
-  "03-Projects": "RiAddCircleLine",
-  "02-Reading": "RiArticleLine",
-  "01-Diary": "RiBaiduLine",
-  "00-MOC": "RiBankLine",
-  "06-Cards": "RiDatabase2Line",
-  "10-笔记": "RiStickyNote2Line"
+  "00-MOC": "FabCreativeCommonsNd",
+  "01-Diary": "FabAirbnb",
+  "02-Reading": "FabBootstrap",
+  "03-Projects": "FabCcApplePay",
+  "04-笔记": "FabCottonBureau",
+  "04-笔记/01-效率生活": {
+    "iconName": "FabAngellist",
+    "inheritanceIcon": "FabAdversal"
+  },
+  "05-课程": "FabContao",
+  "06-Cards": "FabCloudversify",
+  "07-Archives": "FabDashcube",
+  "08-Assets": "FabDraft2digital",
+  "09-Templates": "FabConnectdevelop",
+  "10-资料收集": "FabCss3",
+  "04-笔记/02-编程/01-编程语言": "FabChessRook",
+  "04-笔记/02-编程/02-数据格式": "TiDatabaseShare"
 }

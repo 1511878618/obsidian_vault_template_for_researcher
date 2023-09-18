@@ -1,0 +1,31 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "02-Reading/07-paper/",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Bibliography",
+      "format": "formatted-bibliography",
+      "cslStyle": "elsevier-harvard"
+    },
+    {
+      "name": "Cite",
+      "format": "formatted-citation",
+      "cslStyle": "elsevier-harvard"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Importnotes",
+      "outputPathTemplate": "02-Reading/07-paper/@{{citekey}}.md",
+      "imageOutputPathTemplate": "02-Reading/07-paper/attachments/{{citekey}}/",
+      "imageBaseNameTemplate": "image"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "exeOverridePath": "/Users/torchpy/Library/CloudStorage/OneDrive-个人/工作/kbxtf/08-Assets/software/pdfannots2json"
+}

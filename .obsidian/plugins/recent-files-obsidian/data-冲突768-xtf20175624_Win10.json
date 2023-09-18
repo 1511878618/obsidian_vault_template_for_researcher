@@ -1,0 +1,195 @@
+{
+  "recentFiles": [
+    {
+      "basename": "2023-04-10",
+      "path": "01-Diary/日志存档/2023-04-10.md"
+    },
+    {
+      "basename": "Drawing 2023-04-10 14.03.20.excalidraw",
+      "path": "08-Assets/Excalidraw/Drawing 2023-04-10 14.03.20.excalidraw.md"
+    },
+    {
+      "basename": "Linux笔记",
+      "path": "04-笔记/01-效率生活/05-linux/Linux笔记.md"
+    },
+    {
+      "basename": "S5,7,9,11",
+      "path": "01-Diary/本周事务/S5,7,9,11.md"
+    },
+    {
+      "basename": "barplot",
+      "path": "04-笔记/02-编程/01-编程语言/01-python/01-画图/barplot.md"
+    },
+    {
+      "basename": "statannotations+seaborn",
+      "path": "01-Diary/本周事务/statannotations+seaborn.md"
+    },
+    {
+      "basename": "对比学习",
+      "path": "01-Diary/本周事务/对比学习.md"
+    },
+    {
+      "basename": "S11-SLF1中的S124",
+      "path": "01-Diary/本周事务/S11-SLF1中的S124.md"
+    },
+    {
+      "basename": "SLF1的分析",
+      "path": "01-Diary/本周事务/SLF1的分析.md"
+    },
+    {
+      "basename": "grep",
+      "path": "04-笔记/01-效率生活/05-linux/软件记录/grep.md"
+    },
+    {
+      "basename": "多触手模型",
+      "path": "01-Diary/本周事务/多触手模型.md"
+    },
+    {
+      "basename": "SLF1中的E293如何解释",
+      "path": "01-Diary/本周事务/SLF1中的E293如何解释.md"
+    },
+    {
+      "basename": "SLF与RNase互作",
+      "path": "01-Diary/本周事务/SLF与RNase互作.md"
+    },
+    {
+      "basename": "分析亲和与不亲和的互作情况",
+      "path": "01-Diary/本周事务/分析亲和与不亲和的互作情况.md"
+    },
+    {
+      "basename": "自交不亲和性进度安排",
+      "path": "03-Projects/02-自交不亲和性/自交不亲和性进度安排.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "00-MOC/Tasks.md"
+    },
+    {
+      "basename": "02-自交不亲和性",
+      "path": "03-Projects/02-自交不亲和性/02-自交不亲和性.md"
+    },
+    {
+      "basename": "LDLR和PCSK9的突变可视化",
+      "path": "01-Diary/本周事务/LDLR和PCSK9的突变可视化.md"
+    },
+    {
+      "basename": "自交不亲和性3月总结",
+      "path": "01-Diary/本周事务/自交不亲和性3月总结.md"
+    },
+    {
+      "basename": "2023-04-07",
+      "path": "01-Diary/日志存档/2023-04-07.md"
+    },
+    {
+      "basename": "legend设置",
+      "path": "04-笔记/02-编程/01-编程语言/01-python/01-画图/legend设置.md"
+    },
+    {
+      "basename": "matplotlib_colormap",
+      "path": "04-笔记/02-编程/01-编程语言/01-python/01-画图/matplotlib_colormap.md"
+    },
+    {
+      "basename": "2023-04-06",
+      "path": "01-Diary/日志存档/2023-04-06.md"
+    },
+    {
+      "basename": "重定向",
+      "path": "04-笔记/01-效率生活/05-linux/重定向.md"
+    },
+    {
+      "basename": "2023-04-04",
+      "path": "01-Diary/日志存档/2023-04-04.md"
+    },
+    {
+      "basename": "find",
+      "path": "04-笔记/01-效率生活/05-linux/软件记录/find.md"
+    },
+    {
+      "basename": "S5-SLF1 S5-RNase奇特现象",
+      "path": "01-Diary/本周事务/S5-SLF1 S5-RNase奇特现象.md"
+    },
+    {
+      "basename": "2023-04-03",
+      "path": "01-Diary/日志存档/2023-04-03.md"
+    },
+    {
+      "basename": "comm",
+      "path": "04-笔记/01-效率生活/05-linux/软件记录/comm.md"
+    },
+    {
+      "basename": "gdu",
+      "path": "04-笔记/01-效率生活/05-linux/软件记录/gdu.md"
+    },
+    {
+      "basename": "错义突变预测方法部署",
+      "path": "01-Diary/本周事务/错义突变预测方法部署.md"
+    },
+    {
+      "basename": "特点的SLF1突变分析",
+      "path": "01-Diary/本周事务/特点的SLF1突变分析.md"
+    },
+    {
+      "basename": "matplotlib有趣的东西",
+      "path": "01-Diary/本周事务/matplotlib有趣的东西.md"
+    },
+    {
+      "basename": "Multiple Boxplots",
+      "path": "01-Diary/本周事务/Multiple Boxplots.md"
+    },
+    {
+      "basename": "计算分子进化",
+      "path": "04-笔记/04-生物学/02-进化生物学/进化分子生物学/计算分子进化.md"
+    },
+    {
+      "basename": "Scatter Plot",
+      "path": "01-Diary/本周事务/Scatter Plot.md"
+    },
+    {
+      "basename": "C2和HV区分组，HV包含HVA和HVB，或者二者单独分组，提取对应的电荷（并且提取与之互作的对应的SLF区域的电荷，如果存在对应的互作区域的话）；提取SLF中J区域以及与之对应互作的区域的电荷",
+      "path": "01-Diary/本周事务/C2和HV区分组，HV包含HVA和HVB，或者二者单独分组，提取对应的电荷（并且提取与之互作的对应的SLF区域的电荷，如果存在对应的互作区域的话）；提取SLF中J区域以及与之对应互作的区域的电荷.md"
+    },
+    {
+      "basename": "dpabi特训营",
+      "path": "01-Diary/本周事务/dpabi特训营.md"
+    },
+    {
+      "basename": "JavaScript语法介绍",
+      "path": "01-Diary/本周事务/JavaScript语法介绍.md"
+    },
+    {
+      "basename": "jupyterlab",
+      "path": "01-Diary/本周事务/jupyterlab.md"
+    },
+    {
+      "basename": "SLF1 107",
+      "path": "01-Diary/本周事务/SLF1 107.md"
+    },
+    {
+      "basename": "SLF组合",
+      "path": "08-Assets/Excalidraw/SLF组合.md"
+    },
+    {
+      "basename": "99-黑曜石玩家指南",
+      "path": "03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md"
+    },
+    {
+      "basename": "2023-03-27_周小结",
+      "path": "01-Diary/周小结/2023-03-27_周小结.md"
+    },
+    {
+      "basename": "Todo List",
+      "path": "00-MOC/Todo List.md"
+    },
+    {
+      "basename": "本周事务表",
+      "path": "00-MOC/本周事务表.md"
+    },
+    {
+      "basename": "阅读清单",
+      "path": "00-MOC/阅读清单.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

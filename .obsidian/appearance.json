@@ -1,6 +1,6 @@
 {
   "baseFontSize": 16,
-  "translucency": false,
+  "translucency": true,
   "theme": "moonstone",
   "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [
@@ -16,5 +16,7 @@
     "【自定义】mytools 样式"
   ],
   "baseFontSizeAction": false,
-  "accentColor": ""
+  "accentColor": "",
+  "textFontFamily": "Comic Sans MS",
+  "monospaceFontFamily": "Source Code Pro for Powerline"
 }

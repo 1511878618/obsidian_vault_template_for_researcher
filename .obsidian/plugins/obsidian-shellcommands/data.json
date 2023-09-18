@@ -7,7 +7,7 @@
   "working_directory": "",
   "default_shells": {},
   "environment_variable_path_augmentations": {
-    "darwin": "/Users/xutingfeng/opt/anaconda3/bin/"
+    "darwin": "/Users/torchpy/miniconda3/bin/"
   },
   "error_message_duration": 20,
   "notification_message_duration": 10,
@@ -22,7 +22,7 @@
         "default": "python ./08-Assets/Scripts/auto_transfer.py"
       },
       "shells": {},
-      "alias": "test_草稿归档",
+      "alias": "草稿归档",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "output_channels": {
